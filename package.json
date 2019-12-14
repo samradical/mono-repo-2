@@ -1,6 +1,11 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "adddog-test-rc",
+  "private": false,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
   "devDependencies": {
     "lerna": "^3.19.0"
   }
