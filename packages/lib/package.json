@@ -3,5 +3,9 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "Sam Elie <sam@add.dog> (http://add.dog)",
-  "license": "MIT"
+  "license": "MIT",
+      "publishConfig": {
+    "access": "public"
+  }
+
 }
